@@ -3,7 +3,7 @@
 
 #适用于：
 
-App 限定竖屏，需要手动转横屏；
+App 限定竖屏，需要手动切换横竖屏；
 
 #使用方法：
 
@@ -17,4 +17,7 @@ App 限定竖屏，需要手动转横屏；
  [[SupportedInterfaceOrientations sharedInstance]rotationPortrait];
  设置横屏布局
 
+ 
  亲测可用！😁😁😁😁😁😁
+
+
