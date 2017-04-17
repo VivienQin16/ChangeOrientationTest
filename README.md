@@ -1,11 +1,11 @@
 # ChangeOrientationTest
 
 
-#适用于：
+## 适用于：
 
 App 限定竖屏，需要手动切换横竖屏；
 
-#使用方法：
+## 使用方法：
 
 1，App Device Orientation ： Portrait
 
@@ -17,7 +17,8 @@ App 限定竖屏，需要手动切换横竖屏；
  [[SupportedInterfaceOrientations sharedInstance]rotationPortrait];
  设置横屏布局
 
- 
  亲测可用！😁😁😁😁😁😁
+ 
+<img src="changeOrientation.gif"  alt="旋转示例" />
 
 
